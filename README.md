@@ -13,6 +13,7 @@
 여행객에게, 그리고 카공러들에게 추천합니다!
 
 ## 카페 스물다섯
+![image](/images/cafe25.jpg)
 
 크진 않지만, 편안하고 아늑한 느낌의 카페
 음료와 디저트가 예뻐서 사진에 담기 좋아요 
@@ -24,6 +25,7 @@
 - **영업시간**: 매일 11:00 - 21:00 (일요일 휴무)
 
 ## No Lone Zone (노론존)
+![image](/images/NoLonZone.jpg)
 
 탁 트이고 시원시원한 느낌의 카페를 찾는다면!
 카공이나 간단한 미팅할 곳이 필요하다면!
@@ -36,7 +38,7 @@
 - **영업시간**: 매일  11:00 - 22:00
 
 ## 카페 온 
-
+![image](/images/CafeOn.jpg)
 다이어터/유지어터 모여라!
 깔끔한 브런치 플레이스 '카페 온'
 TMI :카페 곳곳에서 방탄 굿즈가 보인다..
@@ -55,6 +57,8 @@ TMI :카페 곳곳에서 방탄 굿즈가 보인다..
 공항 가기전 픽업하기 좋은 빵집 추천해요!
 
 ## 라온베이커리
+![image](/images/RaonBakery.gif)
+
 
 ![라온베이커리](https://blog.naver.com/PostView.nhn?blogId=jjenesaisquoi&logNo=222049187691&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search#)
 
@@ -72,6 +76,7 @@ TMI :카페 곳곳에서 방탄 굿즈가 보인다..
 
 
 ## 텍스쳐베이커리
+![image](/images/Texture1.jpg)
 
 연남동 감성의 빵집 텍스쳐!
 프랑스 가정식으로 즐겨 먹는 '키슈'로 유명.
