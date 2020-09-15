@@ -103,10 +103,15 @@ TMI :카페 곳곳에서 방탄 굿즈가 보인다..
 - **연락처**: 064-748-0095
 - **영업시간**: -
 
-
-**[출처]** [젠의 블로그 데일리 젠로그](https://blog.naver.com/jjenesaisquoi/222049187691)|**작성자** [젠](https://blog.naver.com/jjenesaisquoi)
-
 ## 메종드쁘띠푸르
 
 맛있고 비싼빵집. 분위기도 좋다.
 
+# 식사
+
+## 프로젝트 064
+
+> **추천 메뉴**: 치즈돈까쓰, 피자, 파스타
+
+
+**[출처]** [젠의 블로그 데일리 젠로그](https://blog.naver.com/jjenesaisquoi/222049187691)|**작성자** [젠](https://blog.naver.com/jjenesaisquoi)
